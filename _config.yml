@@ -1,0 +1,28 @@
+name: QhueCreative
+favicon: null
+layout_spectrum: 0.29132060008123517
+typography_spectrum: 0.1669159538578242
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13535551680251956
+  lightness: 0.21411266922950745
+  saturation: 0.4940429739654064
+  rhythmicContrast: 0.5395673441234976
+purpose: []
